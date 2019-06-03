@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>org.udhksl.WebSpeed</string>
 				<key>bundle-version</key>
-				<string>5.3.2</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>X5 App download</string>
+				<string>WebSpeed</string>
 			</dict>
 		</dict>
 	</array>
